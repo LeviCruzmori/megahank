@@ -7,8 +7,8 @@ software  de pontos de gestão para o MEI, tanto pessoal como empresarial, na me
 ramo de trocarem experiencias atraves de uma possivel rede interna somente entre MEIs.
 
 Dividas MEI.
+fonte: http://www.portaldoempreendedor.gov.br/duvidas-mais-sobre-o-mei/as-duvidas-mais-frequentes-sobre-o-microemprendedor-individual/2-como-eu-faco-para-abrir-um-microempreendedor-individual-mei.
 
-1- O que é Login Único?
 2 - Como eu faço para abrir um Microempreendedor Individual - MEI?
 3 - Quais documentos preciso para formalizar minha empresa,quanto tempo demora e passo a passo para realizar a inscrição?
 4 - Quais são as categorias que podem ser MEI?
